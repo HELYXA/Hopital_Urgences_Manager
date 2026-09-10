@@ -47,4 +47,4 @@ python urgences.py
 
 ---
 
-*Projet personnel — Bachelor Cybersécurité, module Programmation Python (POO).*
+*Projet personnel - Bachelor Cybersécurité, module Programmation Python (POO).*
